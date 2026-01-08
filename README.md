@@ -1,4 +1,4 @@
-# Game of Shapes - Difficulty Selection UI
+# Game of Shapes
 
 A simple, lightweight front-end display demonstrating geometric shapes representing game difficulty levels. This project focuses on pure CSS styling and hover interaction effects.
 
